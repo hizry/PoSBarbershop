@@ -68,6 +68,8 @@ public class TransactionActivity extends AppCompatActivity implements ProductSea
 //        }
 //    };
 
+    
+
     @Override
     public void onSelect(Product product) {
 
